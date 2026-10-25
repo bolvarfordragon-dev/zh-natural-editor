@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文自然改写"
+  short_description: "保留事实、限定条件和作者声音的中文自然改写与审稿"
+  default_prompt: "Use $zh-natural-editor to rewrite this Chinese draft naturally while preserving every fact and constraint."
